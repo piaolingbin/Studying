@@ -1,2 +1,3 @@
 # Studying
-学习练手项目
+美好的一天开始了！
+this is first change.
